@@ -1,6 +1,6 @@
 # Executive Summary
 
-Hardware is a central component, at the time of Charles Babbage, in each machine of ours to prepare ourselves to serve our world with IEEE. In their circuitry signals, electrical energy, we are asked to find out what our electrical engineers put together, with our computer scientists’, their numeric notation software logic gates, computers. In the end, we will be the students who recognize and manipulate hardware designed with speed and durability in memory and answer them during malfunction, their inevitable crash.
+Hardware is the central component, at the time of Charles Babbage, in each machine of ours to prepare ourselves to serve our world with IEEE. In their circuitry signals, electrical energy, we are asked to find out what our electrical engineers put together, with our computer scientists’, their numeric notation software logic gates, computers. In the end, we will be the students who recognize and manipulate hardware designed with speed and durability in memory and answer them during malfunction, their inevitable crash.
 
 # Hardware
 
@@ -49,7 +49,7 @@ Computers have logic gates and truth tables. A NAND gate affirms inputs bearing 
 
 * Explain the purpose of IEEE and the importance of ethics in device design
 
-I hope to join IEEE, so that out of information technology my ethical basis might strengthen our Laws, provide for the consumers of our business, and innovate continually as brilliant technologists for our entire world.
+I hope to join IEEE, so that out of information technology my ethical basis might strengthen our Laws, provide for the consumers of our business, and innovate continually as brilliant technologists worldwide.
 
 # Data Representation
 
@@ -62,7 +62,7 @@ Introspectively, numbers are the most basic element of Mathematics. Decimally 0-
 ### DECIMAL
 _128_ + _64_  +  _32_  +  _16_  +  _8_  +  _4_  +  _2_  + _1_  = 256
 
-The decimal numbers are translated into binary numbers (2 as base) describing data space. To translate computer data for us, binary notation incorporates 8 bytes, up to 8 digits! The greatest addends incorporating a sum define binary numbers. 
+The decimal numbers are translated into binary numbers (2 as base) describing data space. Translating computer data for us, binary notation incorporates 8 bytes, up to 8 digits! The greatest addends incorporating a sum define binary numbers. 
 
 ### BINARY
 1	1	1	1	1	1	1	1-1=0 	= 256-1=255
@@ -76,7 +76,6 @@ _1_ _1_ _1_ _1_ = 15 = F
 * Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file) and save to a file named DecimalConversion and upload to your lab folder.
 
 128 + 64  +  32  +  16  +  8  +  4  +  2  + 1  = 256	  27       26      25        24     23     22     21    20       28
-
 221- 128 = 93 – 64 = 29 – 16 = 13 – 8 = 5 – 4 = 1 -1 = 0
 Greatest common decimal addends: 128, 64, 16, 8, 4, 1
 221DEC = 11011101BIN
@@ -85,7 +84,6 @@ Greatest common decimal addends: 128, 64, 16, 8, 4, 1
 
 * Convert the binary representation: 10110101 to decimal and save your work to a file named BinaryConversion and upload to the lab folder.
 128 + 64  +  32  +  16  +  8  +  4  +  2  + 1  = 256
-  27       26      25        24     23     22     21    20       28
 10110101=128 + 32 + 16 + 4 + 1 = 181
 Greatest common decimal addends: 128, 64, 16, 8, 4, 1
 10110101BIN=181DEC
