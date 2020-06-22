@@ -107,4 +107,4 @@ The accessibility in websites always presents problems for readers. We are train
 
 * Explain what you learnt from this lab
 
-In this Lab Hardware, we were offered a chance to not reinvent, but to be understanding and self-confident in life's computer crashes, because when we come across impediments, our education taught us that solutions for hardware repair are in our hands. Thank you Professor Manjula for giving our hardware education to us.
+In this Lab Hardware, we were offered a chance to not reinvent, but to be understanding and self-confident in life's computer crashes, because when we come across impediments, our education taught us that solutions for hardware repair are in our hands. Thank you Professor Manjula for giving our hardware education to us. I learnt hardware processes, uses, notations, codes, logic, and history.
