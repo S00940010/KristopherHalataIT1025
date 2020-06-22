@@ -1,4 +1,4 @@
-# Chapter 2: Hardware
+# Lab 2: Chapter 2: Hardware
 
 # Executive Summary
 
