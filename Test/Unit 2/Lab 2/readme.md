@@ -1,3 +1,5 @@
+extra work commit id: https://github.com/S00940010/KristopherHalataIT1025/commit/a6bdad63793b8471a1ee59f7feae1347b4fc0bcf
+
 # Lab 2: Chapter 2: Hardware
 
 # Executive Summary
