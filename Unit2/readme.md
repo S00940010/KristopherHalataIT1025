@@ -1,4 +1,4 @@
-xecutive Summary
+Executive Summary
 Hardware is a central component, at the time of Charles Babbage, in each machine of ours to prepare ourselves to serve our world with IEEE. In their circuitry signals, electrical energy, we are asked to find out what our electrical engineers put together, with our computer scientists’, their numeric notation software logic gates, computers. In the end, we will be the students who recognize and manipulate hardware designed with speed and durability in memory and answer them during malfunction, their inevitable crash.
 Hardware
 Hard Drives and Memory
