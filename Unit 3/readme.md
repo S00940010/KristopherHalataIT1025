@@ -84,11 +84,8 @@ Computation power was not fully utilized in many systems. As a processor could h
 
 I did code in Python for the first time. Actuaries program too, during their Actuary-a-thon, to join their health team, Actuary Chuck Kuhn of Cleveland Medical Mutual asked I learn Python. 
 
-I learned to save more white space, you could have asked us to calculate: 
-sum=num1+num2
-diff=num1-num2
-prod=num1*num2
-quotient=num/num2
-print(sum,diff,prod,quotient)
+I learned to save more white space, you could have asked us to show sum, diff, prod, quotient using one line:
+
+* print(sum,diff,prod,quotient)
 
 Also, I understand software was defined as application or operating system. Enterprise software centralizes organization files. Cloud computation centralizes public files. Open-source shares public codes.
