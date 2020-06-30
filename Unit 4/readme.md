@@ -32,8 +32,13 @@ Developers want the best image. Developers know file size matters if users exper
 
 ## File Formats
 
-* Explain the similarities and differences between jpg, gif and png files. 
+* Explain the similarities and differences between jpeg, gif and png files. 
 
+Professor Manjula, jpg, gif and png files are images. They are Joint Photographic Experts Group, Graphics Interchange Format, and Portable Network Graphics.
+
+Likewise, just as JPG does not allow for animated images, PNG does not allow for animated images. Alternatively, JPEG allows for quality losses.
+
+Just as GIF does not allow for lossy compression, PNG does not allow for lossy compression. Alternatively, GIF allows for animated images.
 
 
 # Operating Systems
