@@ -43,7 +43,7 @@ Just as GIF does not allow for lossy compression, PNG does not allow for lossy c
 
 # Operating Systems
 
-* Upload screenshots for Operating System tasks to github
+Upload screenshots for Operating System tasks to github
 
 ## Logo
 
@@ -63,6 +63,6 @@ I searched for changes and I think Google Chrome is most appropriate.
  
 # Conclusion
 
-* Summarize what you learned here
+Summarize what you learned here
 
 I learned 'cmd' is the way programmers command operating systems, icons are the way computer users navigate File Explorer, *right-click properties change* is the way downloaders and uploaders plan file transfers, *right-click properties change* is the way information technology supporters change extensions, *right-click properties change* is the way computer users select programs, Vectr is the tool web designers plan contrasting colors within a graphic design for a website's reader-audience, and *right-click properties change* is the way professionals share file sizes.
