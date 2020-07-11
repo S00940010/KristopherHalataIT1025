@@ -12,7 +12,7 @@ b) House
 
 c) Employee
 
-Partner Accountant, Partner Lawyer, Chief Statistician, Chief Data Analyst, Department Head Professor
+ Department Head Professor, Partner Accountant, Partner Lawyer, Chief Statistician, Chief Data Analyst
 
 * Identify the features (In the video for the Car class, we identified the properties as Year, Make, Model etc.)
 
